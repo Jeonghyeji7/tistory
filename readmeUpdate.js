@@ -5,7 +5,11 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi there 👋
+
+let text = `
+![tumblr_274a5850aed7bb06a033d29105882770_01bb2de3_500](https://user-images.githubusercontent.com/91704826/224994575-846ea991-f3dc-4b0d-a9b3-e3cc7928ea44.gif)
+
+# 👋
 
 ## 📕 Latest Blog Posts
 
