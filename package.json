@@ -1,0 +1,25 @@
+{
+  "name": "tistory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeonghyeji7/tistory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeonghyeji7/tistory/issues"
+  },
+  "homepage": "https://github.com/Jeonghyeji7/tistory#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
