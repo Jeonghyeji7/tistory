@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://yueliang-front-end.tistory.com/32>[Kubernetes] PersistentVolume (PV)과 PersistentVolumeClaim (PVC)란?</a></br><a href=https://yueliang-front-end.tistory.com/31>[SQL] 순위 : RANK() , DENSE_RANK() , ROW_NUMBER() , NTILE()</a></br><a href=https://yueliang-front-end.tistory.com/30>[javascript] setTimeout , setInterval</a></br><a href=https://yueliang-front-end.tistory.com/29>[vue.js] 헷갈리는 부분 정리</a></br><a href=https://yueliang-front-end.tistory.com/28>[Linux] 디렉토리와 파일 & 상대경로와 절대경로</a></br>
+<a href=https://yueliang-front-end.tistory.com/35>로컬pc에서 서버로 파일 전송하기</a></br><a href=https://yueliang-front-end.tistory.com/34>[mysql] 원격으로 mysql dump하고 import하기</a></br><a href=https://yueliang-front-end.tistory.com/33>[vuetify3] v-combobox 사용자 입력 비활성화</a></br><a href=https://yueliang-front-end.tistory.com/32>[Kubernetes] PersistentVolume (PV)과 PersistentVolumeClaim (PVC)란?</a></br><a href=https://yueliang-front-end.tistory.com/31>[SQL] 순위 : RANK() , DENSE_RANK() , ROW_NUMBER() , NTILE()</a></br>
