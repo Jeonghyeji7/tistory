@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://yueliang-front-end.tistory.com/35>로컬pc에서 서버로 파일 전송하기</a></br><a href=https://yueliang-front-end.tistory.com/34>[mysql] 원격으로 mysql dump하고 import하기</a></br><a href=https://yueliang-front-end.tistory.com/33>[vuetify3] v-combobox 사용자 입력 비활성화</a></br><a href=https://yueliang-front-end.tistory.com/32>[Kubernetes] PersistentVolume (PV)과 PersistentVolumeClaim (PVC)란?</a></br><a href=https://yueliang-front-end.tistory.com/31>[SQL] 순위 : RANK() , DENSE_RANK() , ROW_NUMBER() , NTILE()</a></br>
+<a href=https://yueliang-front-end.tistory.com/36>[Kubernetes] 쿠버네티스 클러스터에 MongoDB 배포하기</a></br><a href=https://yueliang-front-end.tistory.com/35>로컬pc에서 서버로 파일 전송하기</a></br><a href=https://yueliang-front-end.tistory.com/34>[mysql] 원격으로 mysql dump하고 import하기</a></br><a href=https://yueliang-front-end.tistory.com/33>[vuetify3] v-combobox 사용자 입력 비활성화</a></br><a href=https://yueliang-front-end.tistory.com/32>[Kubernetes] PersistentVolume (PV)과 PersistentVolumeClaim (PVC)란?</a></br>
